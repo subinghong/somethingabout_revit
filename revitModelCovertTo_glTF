@@ -1,0 +1,9 @@
+use FME to import your ifc data and convert it to city-GML format
+,and import CityGML into 3dcitydb,and use 3dcitydb  export the model as glTF,
+then the glTF can be showed in webGL useing three.js
+
+BIM to GIS (Advanced) | IFC LOD 200 to LOD 3 CityGML
+https://knowledge.safe.com/articles/1024/bim-to-gis-advanced-ifc-lod-200-to-lod-3-citygml.html
+
+3dCityDb:
+https://www.3dcitydb.org/3dcitydb/3dcitydbhomepage/
